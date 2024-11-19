@@ -27,5 +27,5 @@ To run this application locally, follow these steps:
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/musu2004/sustainable-construction.git
-cd sustainable-construction
+git clone https://github.com/musu2004/Sustainable-Construction.git
+cd Sustainable-Construction
