@@ -13,7 +13,7 @@ This web app analyzes construction project data to promote sustainable practices
 
 The app is hosted on Hugging Face Spaces and is accessible online without any local setup.
 
-- **Live URL**: [Sustainable Construction Practices on Hugging Face](https://huggingface.co/spaces/username/sustainable-construction)
+- **Live URL**: [Sustainable Construction Practices on Hugging Face](https://huggingface.co/spaces/musu2004/Sustainable-Construction)
 
 Users can upload CSV files, analyze trends, and derive actionable insights through the interactive web interface.
 
@@ -27,5 +27,5 @@ To run this application locally, follow these steps:
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/username/sustainable-construction.git
+git clone https://github.com/musu2004/sustainable-construction.git
 cd sustainable-construction
