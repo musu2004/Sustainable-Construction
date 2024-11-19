@@ -2,3 +2,5 @@ pandas
 matplotlib
 streamlit
 snowflake-connector-python
+plotly
+openpyxl
